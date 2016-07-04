@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/plugins/Remotwatch">
+    <file>icon.png</file>
+	<file>img/norvia.jpg</file>
+	<file>img/UE.jpg</file>
+  </qresource>
+</RCC>
